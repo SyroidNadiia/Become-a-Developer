@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Become-a-Developer/static/css/main.e19f489d.css",
+    "main.js": "/Become-a-Developer/static/js/main.45d964aa.js",
+    "index.html": "/Become-a-Developer/index.html",
+    "main.e19f489d.css.map": "/Become-a-Developer/static/css/main.e19f489d.css.map",
+    "main.45d964aa.js.map": "/Become-a-Developer/static/js/main.45d964aa.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e19f489d.css",
+    "static/js/main.45d964aa.js"
+  ]
+}
